@@ -26,7 +26,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.2.0",
     "add": "^2.0.6",
     "angular-gridster2": "^6.0.5",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "core-js": "^2.5.4",
     "ng-dynamic-component": "^3.0.0",
     "ng2-charts": "^1.6.0",
